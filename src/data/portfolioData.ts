@@ -78,5 +78,12 @@ export const manifesto =
   "Building at the intersection of artificial intelligence, cybersecurity, mobility and innovation.";
 
 export const EMAIL = "mailto:rudraxdecosta@gmail.com";
+
+export const WORK_INQUIRY_EMAIL =
+  "mailto:rudraxdecosta@gmail.com?subject=Project%20Inquiry%20%E2%80%94%20Build%20a%20Custom%20Website%20/%20Product&body=Hi%20Aditya,%0A%0AI%20explored%20your%20portfolio%20and%20was%20blown%20away%20by%20the%20quality.%20I%20would%20like%20to%20hire%20you%20to%20build%20something%20similar%20for%20my%20company/project.%0A%0AProject%20Overview:%20%0AEstimated%20Budget%20(INR/USD):%20%0ATimeline:%20%0A%0ABest%20regards,";
+
+export const FUNDING_EMAIL =
+  "mailto:rudraxdecosta@gmail.com?subject=Funding%20/%20Investment%20Inquiry%20for%20Aditya%20Mudgal&body=Hi%20Aditya,%0A%0AI%20am%20interested%20in%20backing%20your%20work%20/%20investing%20in%20your%20ventures%20(Traxy,%20Darkra,%20Aegis).%0A%0AOrganization/Investor%20Name:%20%0AProposed%20Support/Investment%20Amount:%20%0ANotes:%20%0A%0ABest%20regards,";
+
 export const LINKEDIN_URL = "https://www.linkedin.com/in/aditya-mudgal-568630437/";
 export const INSTAGRAM_URL = "https://www.instagram.com/ky_yr_adi_/";

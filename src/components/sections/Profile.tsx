@@ -52,12 +52,12 @@ export function Profile() {
 
         <Reveal delay={360} className="status-wrap">
           <div className="block tone-plum status">
-            <span className="text-video-title caps profile-copy">Focus</span>
+            <span className="text-video-title caps profile-copy">Availability & Funding</span>
             <div className="text-heading font-medium">
-              Artificial intelligence, technology-driven mobility, entrepreneurship and products.
+              Open for custom high-impact builds, engineering contracts, and seed backing.
             </div>
             <span className="text-video-title caps profile-copy">
-              Open to research and innovation collaborations
+              Commission an elite experience or fund our active ventures
             </span>
           </div>
         </Reveal>
